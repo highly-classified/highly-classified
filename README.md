@@ -121,12 +121,13 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
-## 📊 GitHub Activity
+<!--## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highly-classified&show_icons=true&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=highly-classified&theme=dark&hide_border=false)
 
 ---
+-->
 
 ## 🎮 Just for Fun
 
