@@ -47,7 +47,7 @@ I also use AI as a productivity and learning tool while building and iterating o
 
 ---
 
-## 😄 A Little About Me
+## 🔹 A Little About Me
 
 You’ll probably find me dancing or doing the most random task you could think of when I'm bored 
 
@@ -55,7 +55,7 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ## 🔹 Tech Stack
 
-### 🧩 Languages
+###  Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -63,7 +63,7 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
-### 🎨 Frontend & UI
+###  Frontend & UI
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -74,13 +74,13 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
 
 ---
 
-### 🧠 Backend & APIs
+###  Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
@@ -88,7 +88,7 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
@@ -96,19 +96,19 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
-### ☁️ Deployment
+###  Deployment
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 🖼️ Graphics & Vision
+###  Graphics & Vision
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=flat-square&logo=raylib&logoColor=black)
 
 ---
 
-### 🔧 Version Control & Collaboration
+###  Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
