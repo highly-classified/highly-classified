@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Shruthi K | Product-minded Software Builder
+# Shruthi K 
+Product-minded Software Builder
 > Learning to build practical and useful software for today’s world
 
 ---
