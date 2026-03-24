@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Shruthi K 
-Product-minded Software Builder
+## Product-minded Software Builder
 > Learning to build practical and useful software for today’s world
 
 ---
