@@ -26,25 +26,26 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔹 Why I Build
+## 🔹 What I Build
 
-I’m interested in building software that is not only functional, but also responsible.  
-I care about designing systems that make sense — where usability, sustainability, and long-term social impact matter as much as features.
+I’m interested in building software that is not only functional, but also reliable.  
+I care about designing systems that make sense 
+<!---— where usability, sustainability, and long-term social impact matter as much as features--->
 
 ---
 
 ## 🔹 Collaboration
 
-I’m looking to collaborate on meaningful projects with students, innovators, and early-stage startup teams.
+I’m looking to collaborate on projects with students, innovators, and early-stage startup teams.
 
 ---
 
 ## 🔹 Learning Focus
 
 I want to learn to build practical ML models for prediction and decision-making
-I also use AI as a productivity and learning tool while building and iterating on ideas.
 
-💬 Feel free to reach out if you’d like to share tips on learning AI/ML.
+
+💬 Feel free to reach out if you’d like to share tips on starting out with AI/ML.
 
 ---
 
@@ -61,6 +62,8 @@ You’ll probably find me dancing or doing the most random task you could think 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=highly-classified&theme=github_dark)
 
 ---
 
@@ -122,13 +125,21 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 ---
 
+
+
+
 <!--## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highly-classified&show_icons=true&theme=dark&hide_border=false)
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=highly-classified&theme=dark&hide_border=false)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=highly-classified&theme=github_dark&utcOffset=8)
+
 
 ---
 -->
+
 
 ## 🎮 Just for Fun
 
@@ -144,9 +155,8 @@ You’ll probably find me dancing or doing the most random task you could think 
 <!----
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highly-classified&theme=github_dark)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=highly-classified&theme=github_dark)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=highly-classified&theme=github_dark&utcOffset=8)
+ 
 
  ----> 
 
