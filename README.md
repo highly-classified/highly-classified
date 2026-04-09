@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔹 Currently Focused On
+##  What I Build
 
-- Building and learning to ship full-stack applications that solve practical, real-world problems  
+- learning to ship full-stack applications that solve practical, real-world problems  
 - Developing a product-oriented mindset — from identifying problems to designing usable solutions  
 
 ---
 
-## 🔹 What I Build
+##  TL;DR
 
-I’m interested in building software that is not only functional, but also reliable.  
+I’m interested in building software that is reliable and novel.  
 I care about designing systems that make sense 
 <!---— where usability, sustainability, and long-term social impact matter as much as features--->
 
@@ -42,10 +42,8 @@ I’m looking to collaborate on projects with students, innovators, and early-st
 
 ## 🔹 Learning Focus
 
-I want to learn to build practical ML models for prediction and decision-making
-
-
-💬 Feel free to reach out if you’d like to share tips on starting out with AI/ML.
+I'd love to explore AI/ML
+So Feel free to reach out if you’d like to share tips on starting out with AI/ML.
 
 ---
 
