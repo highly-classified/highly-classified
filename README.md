@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 
 ---
 
-##  TL;DR
-
-I’m interested in building software that is reliable and novel.  
-I care about designing systems that make sense 
-<!---— where usability, sustainability, and long-term social impact matter as much as features--->
-
----
 
 ## 🔹 Collaboration
 
@@ -50,6 +43,14 @@ So Feel free to reach out if you’d like to share tips on starting out with AI/
 ## 🔹 A Little About Me
 
 You’ll probably find me dancing or doing the most random task you could think of when I'm bored 
+
+---
+
+##  TL;DR
+
+I’m interested in building software that is reliable and novel.  
+I care about designing systems that make sense 
+<!---— where usability, sustainability, and long-term social impact matter as much as features--->
 
 ---
 
