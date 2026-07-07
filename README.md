@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 I’m looking to collaborate on projects with students, innovators, and early-stage startup teams.
 
----
+<!----
 
 ## 🔹 Learning Focus
 
 I'd love to explore AI/ML
 So Feel free to reach out if you’d like to share tips on starting out with AI/ML.
 
----
+--->
 
 ## 🔹 A Little About Me
 
