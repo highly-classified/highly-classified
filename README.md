@@ -50,6 +50,7 @@ You’ll probably find me dancing or doing the most random task you could think 
 
 I’m interested in building software that is reliable and novel.  
 I care about designing systems that make sense 
+https://ctxt.io/3/u12scSs00
 <!---— where usability, sustainability, and long-term social impact matter as much as features--->
 
 ---
